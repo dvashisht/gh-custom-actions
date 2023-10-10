@@ -71,7 +71,7 @@ jobs:
         with:
           bucket: dinvashisht-custom-action-hosting
           dist-folder: ./dist
-          # bucket-region: ap-south-1          
+          bucket-region: ap-south-1          
   # information:
   #   runs-on: ubuntu-latest
   #   steps:
